@@ -1,6 +1,6 @@
 # Calculus-Calculator
 
-This is a Python-based calculus calculator application that can solve integrals, differentials, and limits. It provides both a command-line interface (CLI) and a web interface for users to perform calculus operations.
+This is a Python-based calculus calculator application that can solve integrals, differentials, and limits. It provides a command-line interface (CLI) attaching to a web interface for users to perform calculus operations.
 
 ## Features
 
